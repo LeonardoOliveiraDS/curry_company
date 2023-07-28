@@ -11,3 +11,13 @@ streamlit-folium==0.13.0
 pillow==9.5.0
 - pip:
   - streamlit
+  - python
+  - plotly
+  - pandas
+  - numpy
+  - folium
+  - matplotlib
+  - matplotlib-inline
+  - haversine
+  - streamlit-folium
+  - pillow
