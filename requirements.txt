@@ -9,3 +9,5 @@ matplotlib-inline==0.1.6
 haversine==2.7.0
 streamlit-folium==0.13.0
 pillow==9.5.0
+- pip:
+  - streamlit
